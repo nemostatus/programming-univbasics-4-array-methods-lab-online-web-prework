@@ -25,6 +25,7 @@ end
 ["wow", "I", "am", "really", "learning", "arrays!"].first
 
 def using_last(array)
+  return array.last
 
 end
 
